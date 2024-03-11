@@ -1,0 +1,15 @@
+/Users/esteban/Projects/Evidencia1/Evidencia1/bin/Debug/net7.0/Evidencia1
+/Users/esteban/Projects/Evidencia1/Evidencia1/bin/Debug/net7.0/Evidencia1.deps.json
+/Users/esteban/Projects/Evidencia1/Evidencia1/bin/Debug/net7.0/Evidencia1.runtimeconfig.json
+/Users/esteban/Projects/Evidencia1/Evidencia1/bin/Debug/net7.0/Evidencia1.dll
+/Users/esteban/Projects/Evidencia1/Evidencia1/bin/Debug/net7.0/Evidencia1.pdb
+/Users/esteban/Projects/Evidencia1/Evidencia1/obj/Debug/net7.0/Evidencia1.csproj.AssemblyReference.cache
+/Users/esteban/Projects/Evidencia1/Evidencia1/obj/Debug/net7.0/Evidencia1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/esteban/Projects/Evidencia1/Evidencia1/obj/Debug/net7.0/Evidencia1.AssemblyInfoInputs.cache
+/Users/esteban/Projects/Evidencia1/Evidencia1/obj/Debug/net7.0/Evidencia1.AssemblyInfo.cs
+/Users/esteban/Projects/Evidencia1/Evidencia1/obj/Debug/net7.0/Evidencia1.csproj.CoreCompileInputs.cache
+/Users/esteban/Projects/Evidencia1/Evidencia1/obj/Debug/net7.0/Evidencia1.dll
+/Users/esteban/Projects/Evidencia1/Evidencia1/obj/Debug/net7.0/refint/Evidencia1.dll
+/Users/esteban/Projects/Evidencia1/Evidencia1/obj/Debug/net7.0/Evidencia1.pdb
+/Users/esteban/Projects/Evidencia1/Evidencia1/obj/Debug/net7.0/Evidencia1.genruntimeconfig.cache
+/Users/esteban/Projects/Evidencia1/Evidencia1/obj/Debug/net7.0/ref/Evidencia1.dll

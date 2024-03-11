@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{868CF6F2-2DA2-4661-A706-F9E04BE12B31}|Default">
+  <MonoDevelop.Ide.ItemProperties.Evidencia1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Evidencia1/Program.cs">
+    <Files>
+      <File FileName="Evidencia1/Program.cs" Line="169" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Evidencia1" expanded="True">
+            <Node name="Evidencia1" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
